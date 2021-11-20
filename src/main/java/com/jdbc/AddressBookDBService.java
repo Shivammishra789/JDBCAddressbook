@@ -61,5 +61,5 @@ public class AddressBookDBService {
 		}
 		connection.close();
 		return list;
-	}	
+	}
 }
